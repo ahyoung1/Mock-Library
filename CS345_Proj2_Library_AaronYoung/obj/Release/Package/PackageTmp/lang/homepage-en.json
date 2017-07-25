@@ -1,0 +1,21 @@
+﻿{
+  "nav": {
+    "admin": "Admin Login",
+    "patron_info": "Patron Information",
+    "chinese": "Chinese",
+    "my_books": "My Books",
+    "english": "English",
+    "home": "Home",
+    "languages": "Languages",
+    "login": "Login",
+    "options": "Options",
+    "full_catalog": "Full Catalog",
+    "contact": "Contact",
+    "all_patrons": "ADMIN See All Patrons",
+    "add_book": "ADMIN Add a Book",
+    "register": "Register",
+    "spanish": "Spanish",
+    "tutorial": "Tutorial",
+    "user_info": "User Information"
+  }
+}

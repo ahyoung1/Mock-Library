@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ay_library-Web.config Connection String" description="ay_library Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5017.Smarterasp.net;          Initial Catalog=DB_9BC2B3_ahyoung;          User Id=DB_9BC2B3_ahyoung_admin;Password=pwd900962786;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Aaron\\Desktop\\check\ projs\\CS345_Proj2_Library_AaronYoung1111\\CS345_Proj2_Library_AaronYoung\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ay_library']/@connectionString" />
+  </parameter>
+</parameters>

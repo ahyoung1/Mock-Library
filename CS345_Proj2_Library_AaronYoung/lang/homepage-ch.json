@@ -1,0 +1,21 @@
+﻿{
+  "nav": {
+    "admin": "管理登录",
+    "patron_info": "顾客信息",
+    "chinese": "中文",
+    "my_books": "我的书",
+    "english": "英语",
+    "home": "主页",
+    "languages": "语言",
+    "login": "登录",
+    "options": "选项",
+    "full_catalog": "完整目录",
+    "contact": "联系",
+    "all_patrons": "ADMIN查看所有赞助人",
+    "add_book": "ADMIN添加一本书",
+    "register": "成为会员",
+    "spanish": "西班牙语",
+    "tutorial": "教程",
+    "user_info": "用户信息"
+  }
+}

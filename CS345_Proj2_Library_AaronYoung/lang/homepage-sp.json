@@ -1,0 +1,21 @@
+﻿{
+  "nav": {
+    "admin": "Admin Login",
+    "patron_info": "Información del Patrón",
+    "chinese": "chino",
+    "my_books": "Mis libros",
+    "english": "Ingles",
+    "home": "casa",
+    "languages": "Idiomas",
+    "login": "Iniciar sesion",
+    "options": "Opciones",
+    "full_catalog": "Catálogo completo",
+    "contact": "Contacto",
+    "all_patrons": "ADMIN Ver todos los patrocinadores",
+    "add_book": "Añadir un libro",
+    "register": "Conviertete en miembro",
+    "spanish": "Espanol",
+    "tutorial": "Tutorial",
+    "user_info": "informacion del usuario"
+  }
+}

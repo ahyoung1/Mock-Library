@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhKaZ9muUJEuImeCunNV5owAAAAACAAAAAAAQZgAAAAEAACAAAABpGl9cx7zFZVv3kqKMWg+5/qoU1WMHsfFSK3Bt53HqCwAAAAAOgAAAAAIAACAAAABG3JXn+AzjI8CN/8ufF7Sl5wTUZm1mifxHtfJpPrec1iAAAACcJ53t36FXjEgDZFCjbCmo5yS1FbuWijXI5AXQz0KiiEAAAAAVV1hGTx9cgO+S/QXgPYNUOnYddToS2Gm96GwSEYL6p15xH1je/F4dm7v1otyBc5KXZ/xDvcQq/+L5LX4EcdGO</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.smarterasp.net</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AdminAddBook.aspx">
+      <publishTime>04/24/2017 23:55:36</publishTime>
+    </File>
+    <File Include="AdminSeePatrons.aspx">
+      <publishTime>04/24/2017 23:55:25</publishTime>
+    </File>
+    <File Include="AllBooks.aspx">
+      <publishTime>04/24/2017 23:55:09</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>04/24/2017 18:59:26</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>04/24/2017 18:59:26</publishTime>
+    </File>
+    <File Include="bin/CS345_Proj2_Library_AaronYoung.dll">
+      <publishTime>04/24/2017 23:44:49</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>04/24/2017 18:59:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>04/24/2017 18:59:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>04/24/2017 18:59:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>04/24/2017 18:59:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>04/24/2017 18:59:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>04/24/2017 18:59:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>04/24/2017 18:59:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/24/2017 18:59:16</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>04/24/2017 23:54:52</publishTime>
+    </File>
+    <File Include="css/ay_library.css">
+      <publishTime>04/24/2017 23:21:38</publishTime>
+    </File>
+    <File Include="css/bootstrap-drawer.css">
+      <publishTime>04/24/2017 23:11:41</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>04/24/2017 23:11:56</publishTime>
+    </File>
+    <File Include="css/introjs.css">
+      <publishTime>04/24/2017 23:11:41</publishTime>
+    </File>
+    <File Include="css/liquid-slider.css">
+      <publishTime>04/24/2017 23:11:41</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>04/24/2017 23:55:41</publishTime>
+    </File>
+    <File Include="images/brick-wallpaper.jpg">
+      <publishTime>04/24/2017 23:12:48</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>04/24/2017 23:13:08</publishTime>
+    </File>
+    <File Include="js/bsuPizza.js">
+      <publishTime>04/24/2017 23:13:08</publishTime>
+    </File>
+    <File Include="js/drawer.js">
+      <publishTime>04/24/2017 23:13:08</publishTime>
+    </File>
+    <File Include="js/intro.js">
+      <publishTime>04/24/2017 23:13:08</publishTime>
+    </File>
+    <File Include="js/jquery.localize.min.js">
+      <publishTime>04/24/2017 23:13:08</publishTime>
+    </File>
+    <File Include="lang/homepage-ch.json">
+      <publishTime>04/24/2017 23:13:31</publishTime>
+    </File>
+    <File Include="lang/homepage-en.json">
+      <publishTime>04/24/2017 23:13:31</publishTime>
+    </File>
+    <File Include="lang/homepage-sp.json">
+      <publishTime>04/24/2017 23:13:31</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>04/24/2017 23:54:24</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/24/2017 18:59:26</publishTime>
+    </File>
+    <File Include="PatronBooks.aspx">
+      <publishTime>04/24/2017 23:54:12</publishTime>
+    </File>
+    <File Include="PatronInfo.aspx">
+      <publishTime>04/24/2017 23:53:58</publishTime>
+    </File>
+    <File Include="Registration.aspx">
+      <publishTime>04/24/2017 23:53:39</publishTime>
+    </File>
+    <File Include="ResetPassword.aspx">
+      <publishTime>04/24/2017 23:53:20</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.js">
+      <publishTime>04/24/2017 18:59:26</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>04/24/2017 18:59:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/24/2017 23:44:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
